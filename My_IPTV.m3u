@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,tvg-logo="" goup-title="FRANCE",France 24 fr
+http://81.94.196.204/tsstreamer/France24_HD.ts
+#EXTINF:-1,Afrique Media
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/afriquemedia
+#EXTINF:-1,CRTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/crtv237
+#EXTINF:-1,CRTV News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/crtvnews22
+#EXTINF:-1,Canal2 International
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Canal2internationalOfficiel
+#EXTINF:-1, Euronews fr
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,C8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
+#EXTINF:-1,Canal+ fr
+http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+#EXTINF:-1,CNews
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNEWS
+#EXTINF:-1,M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1,MTV fr
+http://190.2.155.162:8080/mtvfrance/mpegts
+#EXTINF:-1,TF1 Séries Films
+http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
+#EXTINF:-1,TV5Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" goup-title="TV",Syfy
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108553
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208687.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 FHD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208689.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208691.m3u8
+#EXTINF:-1,FR: RMC SPORT 4 FHD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208693.m3u8
+#EXTINF:-1,FR: TRACE URBAN FHD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/86443.m3u8
+#EXTINF:-1,FR: beIN Sports 1 FHD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/198126.m3u8
+#EXTINF:-1,FR: beIN Sports 2 FHD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/198131.m3u8
+#EXTINF:-1,FR: beIN Sports 3 FHD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/198125.m3u8
+#EXTINF:-1,FR: CANAL CINEMA HD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/94526.m3u8
+#EXTINF:-1,FR: CANAL+ SERIE HD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/98100.m3u8
+#EXTINF:-1,FR: Africa 24
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/88552.m3u8
+#EXTINF:-1,CARTOON: FR - MANGAS HD
+http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208664.m3u8
